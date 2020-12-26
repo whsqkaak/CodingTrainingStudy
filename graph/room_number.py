@@ -1,3 +1,5 @@
+# 미완성
+
 def find_index(data, target):
   res = []
   lis = data
